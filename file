@@ -1,0 +1,17 @@
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] ---------------------< com.expleo.QE:bdd-serenity >---------------------
+[INFO] Building bdd-serenity 1.0-SNAPSHOT
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:3.0.0:clean (default-clean) @ bdd-serenity ---
+[INFO] Deleting C:\Users\6495\Documents\training-tutorial\bdd-serenity\target
+[INFO] 
+[INFO] --- maven-resources-plugin:3.0.2:resources (default-resources) @ bdd-serenity ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory C:\Users\6495\Documents\training-tutorial\bdd-serenity\src\main\resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.8.0:compile (default-compile) @ bdd-serenity ---
+[INFO] Changes detected - recompiling the module!
+[INFO] Compiling 1 source file to C:\Users\6495\Documents\training-tutorial\bdd-serenity\target\classes
+Terminate batch job (Y/N)? Terminate batch job (Y/N)? 

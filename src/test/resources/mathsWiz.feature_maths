@@ -1,0 +1,6 @@
+Feature: Maths Wizard
+
+  Scenario: Add two integers
+  Given That I have a calculator
+  When I add two integers
+  Then the result will be correct
